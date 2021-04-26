@@ -1,0 +1,2 @@
+# Diplom
+Azure FaceAPI
